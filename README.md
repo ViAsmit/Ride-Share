@@ -2,6 +2,10 @@
 
 Ride Sharing App, built with Flutter
 
+## Images
+
+<img src="delritpics/1.jpeg" width="250px" /> <img src="delritpics/2.jpeg" width="250px" /> <img src="delritpics/3.jpeg" width="250px" /> <img src="delritpics/4.jpeg" width="250px" /> <img src="delritpics/5.jpeg" width="250px" /> <img src="delritpics/6.jpeg" width="250px" /> <img src="delritpics/7.jpeg" width="250px" /> <img src="delritpics/8.jpeg" width="250px" /> 
+
 ## Problems Addressed:
 
 You must be aware of car-pooling and its advantages like reducing traffic and pollution. Also, there might be situations when you don’t want to travel alone or cut down your ride costs. However, finding someone to share your ride with other people can be a tedious task. 
